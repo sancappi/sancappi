@@ -10,3 +10,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+<!-- ### 🌟 Alguns dos meus projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [To-do App](link-do-repo) | Um app de lista de tarefas simples com tema escuro. | HTML, CSS, JavaScript |
+| [Página pessoal](link-do-repo) | Meu primeiro site com infos sobre mim. | HTML, CSS |
+| [Jogo da adivinhação](link-do-repo) | Joguinho que adivinha números entre 1 e 100. | JavaScript |
+-->
