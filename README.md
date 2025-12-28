@@ -1,4 +1,10 @@
-## Olá, sou Sandrs 👋
+## Olá, sou Sandrs (sim, com s no final) 👋
+
+Bem-vindo ao meu perfil.
+
+Aqui você encontrará projetos pessoais e profissionais desenvolvidos ao longo da minha experiência.
+Alguns não podem ser tornados públicos por acordos de confidencialidade. Nesses casos, descrevo responsabilidades, desafios técnicos e
+arquitetura sempre que possível.
 
 ### ⚙️ Tecnologias com as quais trabalho 👩🏻‍💻
 
@@ -10,14 +16,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<!-- ### 🌟 Alguns dos meus projetos
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [To-do App](link-do-repo) | Um app de lista de tarefas simples com tema escuro. | HTML, CSS, JavaScript |
-| [Página pessoal](link-do-repo) | Meu primeiro site com infos sobre mim. | HTML, CSS |
-| [Jogo da adivinhação](link-do-repo) | Joguinho que adivinha números entre 1 e 100. | JavaScript |
--->
