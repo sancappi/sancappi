@@ -1,4 +1,4 @@
-## Olá, sou Sandrs (sim, com s no final) 👋
+## Olá, sou Sandrs (sim, com S no final) 👋
 
 Bem-vindo ao meu perfil.
 
